@@ -122,3 +122,12 @@ src/
 
 **Fluxo do Usuário:**
 `Landing Page` → `Configurador 3D` → `Checkout Seguro` → `Análise de Crédito em Tempo Real` → `Confirmação/Recibo`
+
+
+## 🧪 Estratégia de QA
+
+Este projeto faz parte do [portfólio de QA/SDET](https://github.com/MarcosPereira97/qa-portfolio-marcos) de Marcos Henrique Pereira Junior.
+
+- **Abordagem:** testes E2E automatizados cobrindo fluxos críticos de negócio, com foco em risco e valor.
+- **Documentação complementar:** estratégia de testes, casos de teste e exploratory charters disponíveis no [qa-portfolio-marcos](https://github.com/MarcosPereira97/qa-portfolio-marcos).
+- **CI/CD:** execução automatizada via GitHub Actions a cada push/PR.
