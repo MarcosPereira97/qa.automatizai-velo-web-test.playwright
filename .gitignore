@@ -30,6 +30,12 @@ dist-ssr
 /playwright/.cache/
 /playwright/.auth/
 
+# Claude Code local settings
+.claude/
+
+# Temp reports (Playwright AI hooks)
+.github/temp-report/
+
 *.png
 .playwright-mcp/*   
 .vercel
